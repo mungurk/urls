@@ -1,16 +1,3 @@
-******************
-*** IP ADDRESS ***
-******************
-162.241.127.11
-162.241.87.96
-162.241.126.93
-162.241.117.30
-69.49.245.110
-69.49.234.157
-
-********************
-*** DOMAIN WATCH ***
-********************
 express-fifththird-o.nline.com
 express-fiftht.hird.com
 xn--xprss53-s8ad.com
@@ -19,9 +6,6 @@ express53.com
 express35.com
 xn--xpess53-hob10q.com
 
-*************************
-*** NON-53RD ACCOUNTS ***
-*************************
 us-cibc.xn--bnking-servics-vp8g8moa.com
 banking.xn--wetpc-g9b4422c.com
 banking.xn--wtpac-f9b9042c.com
@@ -139,9 +123,6 @@ xn--equabnking-ij3e.com
 probanking.xn--prcreditbnk-zt9e6t.com
 qianfuma.cn
 
-*******************
-*** IVAN ALERTS ***
-*******************
 xn--xpres53-vxc3l.com
 xn--xpres53-wxc0607d.com
 xn--xpres53-vxc1607d.com
